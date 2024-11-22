@@ -5,7 +5,7 @@ Reporsitory of Personal Research Projects
 Undergraduate Dissertation
 
 
-Abstract:
+**Abstract:**
 *The electric guitar is an ideal vessel for mathematical study. Its function mirrors
 many classical mathematical topics and consequently it acts as an effective bridge
 between theoretical applied mathematics and real world applications. In this project,
