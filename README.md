@@ -1,2 +1,14 @@
 # Papers
-Research Projects I've written
+Reporsitory of Personal Research Projects
+
+## A Mathematical Analysis of the Electric Guitar
+
+The electric guitar is an ideal vessel for mathematical study. Its function mirrors
+many classical mathematical topics and consequently it acts as an effective bridge
+between theoretical applied mathematics and real world applications. In this project,
+we study the underlying mathematical processes at work in the instrument. This
+includes electromagnetic theory as well as Fourier and wave analysis. We use the work
+done to explain many of the observed phenomena of the electric guitar and construct
+a framework to model the output of the instrument. This process is heavily aided by
+implementing the mathematics into the Python programming language. We finish by
+offering a modification to account for non-idealised factors.
