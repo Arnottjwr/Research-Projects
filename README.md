@@ -2,7 +2,7 @@
 A collection of unpublished personal research projects.
 
 ## A Mathematical Analysis of the Electric Guitar
-Undergraduate Dissertation written at the the University of St Andrews during the 2023-24 academic year under supervision from Dr Andrew Wright.
+Undergraduate Dissertation written at the the University of St Andrews under supervision from Dr Andrew Wright during the 2023-24 academic year.
 
 
 **Abstract:**
