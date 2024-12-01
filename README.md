@@ -15,3 +15,8 @@ done to explain many of the observed phenomena of the electric guitar and constr
 a framework to model the output of the instrument. This process is heavily aided by
 implementing the mathematics into the Python programming language. We finish by
 offering a modification to account for non-idealised factors.*
+
+
+## Period-doubling and Chaos in Nonlinear Difference Equations: Applications to Models of Biological Populations
+Short essay studying the population dynamics of simple mathematical models, in particular when these become _chaotic_.
+
